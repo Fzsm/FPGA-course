@@ -1,6 +1,5 @@
 # FPGA-course
 # Logic Circuits and Computer Architecture Laboratory  
-This repository contains VHDL and Verilog code examples related to the Logic Circuits and Computer Architecture Laboratory course at QIAU (Qazvin Islamic Azad University).
 
 ## About the Course  
 The Logic Circuits and Computer Architecture Laboratory course is designed to provide hands-on experience with digital logic circuits and computer architecture concepts. The course covers topics such as combinational and sequential logic design, memory systems, processor architecture, and more. The course includes practical projects using both VHDL (VHSIC Hardware Description Language) and Verilog, two of the most widely-used hardware description languages.
@@ -15,11 +14,6 @@ The repository includes the following:
 To use the code in this repository, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-
-   ```bash
-   git clone <repository_url>
-   ```
-
 2. Navigate to the specific experiment directory you are interested in.
 3. Open the VHDL or Verilog source code file using a VHDL/Verilog simulator or an IDE like ModelSim, Vivado, or VS Code with relevant extensions.
 4. Follow the instructions provided in the documentation to run and test the experiment.
