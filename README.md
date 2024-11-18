@@ -1,5 +1,5 @@
 # FPGA-course
-# QIAU Logic Circuits and Computer Architecture Laboratory  
+# Logic Circuits and Computer Architecture Laboratory  
 This repository contains VHDL and Verilog code examples related to the Logic Circuits and Computer Architecture Laboratory course at QIAU (Qazvin Islamic Azad University).
 
 ## About the Course  
