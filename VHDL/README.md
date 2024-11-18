@@ -1,5 +1,5 @@
-QIAU Logic Circuits and Computer Architecture Laboratory  
-This repository contains VHDL code examples related to the Logic Circuits and Computer Architecture Laboratory course at QIAU (Qazvin Islamic Azad University).
+# Logic Circuits and Computer Architecture Laboratory  
+This repository contains AI-generated VHDL code examples related to the Logic Circuits and Computer Architecture Laboratory course.
 
 ### About the Course  
 The Logic Circuits and Computer Architecture Laboratory course is designed to provide hands-on experience with digital logic circuits and computer architecture concepts. The course covers topics such as combinational and sequential logic design, memory systems, processor architecture, and more.
@@ -14,11 +14,6 @@ The repository includes the following:
 To use the code in this repository, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-
-   ```bash
-   git clone <repository_url>
-   ```
-
 2. Navigate to the specific experiment directory you are interested in.
 3. Open the VHDL source code file using a VHDL simulator or an IDE like ModelSim or Vivado.
 4. Follow the instructions provided in the documentation to run and test the experiment.
